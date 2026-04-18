@@ -1,0 +1,48 @@
+PYTHON TUTORIAL FOR BEGINNERS 
+
+Chapter - 01 
+Introduction to Python 
+• What is programming 
+• What is Python 
+• Popular programming languages 
+• Why Python 
+• Career with Python 
+What is Programming Language? 
+Programming is the process of creating sets of instructions that tell a computer 
+how to perform specific tasks. These instructions, known as code, are written in 
+programming languages that computer understand and executes to carry out 
+various operations, such as solving problems, analysing data, or controlling 
+device.  
+Popular programming languages: Python, C, C++, Java, Go, C#, etc. 
+What is Python? 
+Python is a high-level programming language known for its simplicity and 
+readability. 
+Just like we use Hindi language to communicate and express ourselves,  
+Python is a language for computers to understand our instructions & perform 
+tasks. 
+Note: Python was created by Guido van Rossum in 1991. 
+ 
+Popular programming languages 
+As per statista survey, Python is the most popular programming language.  
+Why Python? 
+Python is one of the easiest programming languages to learn and known for its 
+versatility and user-friendly syntax, is a top choice among programmers.  
+Also, python is an open source (free) programming language and have extensive 
+libraries to make programming easy. Python has massive use across different 
+industries with excellent job opportunities. 
+Python is Dynamically Typed Example 
+In Python there is no declaration of a variable, just an assignment statement. 
+x = 8              
+# here x is a integer 
+x = "Python by Rishabh Mishra"  # here x is a string 
+print(type(x))     
+Python - Easy to Read & Write 
+# you can check the type of x  
+Ques1: Write a program to print “Hello World” 
+ 
+Ques2: Write a program to print numbers from 1 to 10 
+In above examples we can see that Python is simple in writing & reading the code. 
+Careers with Python 
+Python is not only one of the most popular programming languages in the world, 
+but it also offers great career opportunities. The demand for Python developers is 
+growing every year. 
