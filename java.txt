@@ -1,0 +1,243 @@
+What is Java?
+Java is a popular high-level,object-oriented programming language that was originally developed by Sun Microsystems and released in 1995. Currently, Java is owned by Oracle, and more than 3 billion devices run Java. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions ofUNIX. Today Java is being used to develop numerous types of software applications, including desktop apps, mobile apps, web apps, games, and much more.
+
+Java is a general-purpose programming language intended to let programmers Write Once, Run Anywhere (WORA). This means that compiled Java code can run on all platforms that support Java without the need to recompile.
+In this tutorial, you will learn everything about Java, starting from basics to advanced concepts such as overview, history, installations, basic input/output, conditional & control statements, arrays, classes, inheritances, method overloading & overriding, exception handling, and many more.
+
+
+
+Java First Example
+The first example in Java is to print "Hello, World!" on the screen. Let's have a quick look at the first examples in Java programming:
+
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello, World!' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello, World!"); // prints Hello, World!
+   }
+}
+Getting Started with Java
+Explore the following chapters to get started learning Java programming:
+
+Java - Home
+Java - Overview
+Java - History
+Java - Features
+Java Vs. C++
+JVM - Java Virtual Machine
+Java - JDK vs JRE vs JVM
+Java - Hello World Program
+Java - Environment Setup
+Java - Basic Syntax
+Java Basics
+Explore the basic topics such as data types, operators, user input, etc.:
+
+Java - Variable Types
+Java - Data Types
+Java - Type Casting
+Java - Unicode System
+Java - Basic Operators
+Java - Comments
+Java - User Input
+Java - Date & Time
+Java Conditional Statements
+Furthermore, in Java, explore the conditional statements to implement the logic and to make decisions based on the conditions:
+
+Java - Decision Making
+Java - If-else
+Java - Switch
+Java Loops and Control Statements
+Explore the loops and control statements to learn how to control the execution of the programming logics:
+
+Java - Loop Control
+Java - For Loops
+Java - For-Each Loops
+Java - While Loops
+Java - do-while Loops
+Java - Break
+Java - Continue
+ 
+
+Java String and Arrays
+Explore the following strings and array-related chapters:
+
+Java Strings and String Class
+Java - Strings
+Java OOPs
+Explore the following chapters to learn the object-oriented programming approach in Java:
+
+Java - OOPs Concepts
+Java - Object & Classes
+Java - Class Attributes
+Java - Class Methods
+Java - Methods
+Java - Variables Scope
+Java - Constructors
+Java - Access Modifiers
+Java - Inheritance
+Java - Aggregation
+Java - Polymorphism
+Java - Overriding
+Java - Method Overloading
+Java - Dynamic Binding
+Java - Static Binding
+Java - Instance Initializer Block
+Java - Abstraction
+Java - Encapsulation
+Java Collections and Interfaces
+Explore Java interfaces and collections-related chapters:
+
+Java - Interfaces
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
+Java - Collections
+Java - Collection Interface
+Java Exceptional Handling
+Explore the file handling chapters to learn how to create, write, read, and manipulate the files and directories:
+
+Java - Files
+Java - Create a File
+Java - Write to File
+Java - Read Files
+Java - Delete Files
+Java - Directories
+Java - I/O Streams
+Java Multithreading
+Explore the threading-related chapters to learn to manage multiple threads in Java:
+
+Java - Multithreading
+Java - Thread Life Cycle
+Java - Creating a Thread
+Java - Starting a Thread
+Java - Joining Threads
+Java - Naming Thread
+Java - Thread Scheduler
+Java - Thread Pools
+Java - Main Thread
+Java - Thread Priority
+Java - Daemon Threads
+Java - Thread Group
+Java - Shutdown Hook
+Java Practices
+Java Quick Guide
+Java Interview Questions
+Java 8 Interview Questions
+Java Online Test
+Java Mock Test
+Java References
+Here, you can find the package, class, and method references −
+
+Java Scanner Class
+Java Arrays Class
+Java Strings Class
+Java Date Class
+Java ArrayList Class
+Java Vector Class
+Java Stack Class
+Java PriorityQueue Class
+Java LinkedList Class
+Java ArrayDeque Class
+Java HashMap Class
+Java LinkedHashMap Class
+Java WeakHashMap Class
+Java EnumMap Class
+Java TreeMap Class
+Java IdentityHashMap Class
+Java HashSet Class
+Java EnumSet Class
+Java LinkedHashSet Class
+Java TreeSet Class
+Java BitSet Class
+Java Dictionary Class
+Java Hashtable Class
+Java Properties Class
+Java Collection Class
+Java Array Class
+Online Java Compiler
+Our Java programming tutorial provides various examples to explain the concepts. To compile and execute the given Java programming examples in your browser itself, we have provided Online Java Compiler. You can edit and run almost all the examples directly from your browser without the need to set up your development environment.
+
+Try to click the icon run button to run the following Java code to print conventional "Hello, World!" using Java Programming.
+
+Below code box allows you to change the value of the code. So, please try to change the value inside println() and run it again to verify the result.
+
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello, World!' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello, World!"); // prints Hello, World!
+   }
+}
+Java Features
+Java is a feature-rich language. Java is evolving continuously with every update, and updates are coming every six months. Following are some of the main features of the Java language:
+
+Object Oriented: Java is a pure object-oriented language, and everything in Java is an object. Java supports OOPS principles like Inheritance, Encapsulation, Polymorphism, Classes , and so on. Java itself can be extended as well, being based on an object model.
+Platform Independent: Java code is platform independent. A Java code is not compiled into machine-specific code; it is compiled into a platform-neutral byte code. This byte code is executed by JVM which runs the code on the underlying platform. This capability makes Java a Write Once Run Anywhere language.
+Easy To Learn: Java inherits features from C and C++, and developers can easily learn Java if they know any of the C or C++ languages. Even for someone new to computer languages, Java is very easy to learn from scratch.
+Secure: Java is secure by architecture. A developer is not required to directly interact with the underlying memory or operating system. Java provides automatic garbage collection, so developers are not required to worry about memory leaks, management, etc.
+Architectural-Neutral: Java byte code can be executed on any kind of processor. JRE automatically handles the code execution on different types of processors.
+Portable: A Java code written on a Windows machine can be executed without any code change on MacOS and vice versa. There is no need to make any operating system-specific code changes.
+Robust: Java is a very robust language with very strong compile-time error checks, strict type checking, and runtime exception handling.
+Multithreading: Java provides inbuilt support for multiprocessing and multithreading. Java provides thread handling, monitors, deadlock handling, racing conditions, etc.
+High Performance: Java, although being interpreted, is still very performant. The JIT(Just In Time) compilerhelps in improving performance.
+Distributed: Java is designed for distributed systems and is the most popular language for developing internet-based applications as the internet is a distributed environment.
+Java Applications
+Since Java supports object-oriented features and is platform-independent, it is extensively used in various fields. Listed below are a few areas where Java is used -
+
+Enterprise solutions
+Game development
+Secured web development
+Embedded systems
+Mobile application development
+Big Data Applications, and many more.
+Java Platforms (Editions)
+Platforms of Java are divided into four Java editions, which are −
+
+Java SE (Java Standard Edition): It is a standard edition that is used to develop and deploy portable code for desktop and server environments.
+Java EE (Java Enterprise Edition): It is an enterprise edition that is used to develop web applications.
+Java ME (Java Micro Edition): J2ME is used to develop mobile applications; it is a micro edition of Java.
+JavaFx: It is used to develop lightweight user interfaces for rich internet applications.
+Java Jobs & Opportunities
+Java is very in demand, and all the major companies are recruiting Java programmers to develop their desktop, web, and mobile applications.
+
+Today, a Java programmer with 3-5 years of experience is asking for around $120,000 in an in an annual package, and this is the most demanding programming language in America. Though it can vary depending on the location of the job. Following are the great companies that are using Java and they need good Java programmers:
+
+Google
+Microsoft
+Facebook
+IBM
+Amazon
+Netflix
+Pinterest
+Uber
+JetBrains
+Many more...
+So, you could be the next potential employee for any of these major companies. We have developed great learning material for Java that will help you prepare for the technical interviews and certification exams based on Java. So, start learning Java using this simple and effective tutorial from anywhere and anytime, absolutely at your pace.
+
+Why to Learn Java?
+Java is a MUST to learn programming language for students and working professionals to become a great software engineer, especially when they are working in the software development domain. If you will conduct a survey about the best programming language around, Java is sure to come up.
+
+Java is a fairly easy programming language to learn, so if you are starting to learn any programming language, then Java could be your great choice. There's also plenty of Java tools that make it easy for developers and beginners to use. There are many other good reasons that make Java the first choice of any programmer:
+
+Java is open source, which means it's available free of cost.
+Java is simple and so easy to learn.
+Java is much in demand and ensures a high salary.
+Java has a large, vibrant community.
+Java has powerful development tools.
+Java is platform-independent.
+Who should Learn Java
+This Java tutorial will help both students as well as working professionals who want to develop applications using Java technologies like banking systems, support systems, information systems, websites, mobile apps, personal blogs, etc. We recommend reading this tutorial in the sequence listed in the left-side menu.
+
+Today, Java is one of the most demanding programming languages, and so it has become an essential language to learn for anyone involved in the software application development process, including software developers, software designers, project managers, etc.
